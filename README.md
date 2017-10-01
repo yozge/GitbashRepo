@@ -1,2 +1,2 @@
 # GitbashRepo
-I am not file.
+I am conflict.
